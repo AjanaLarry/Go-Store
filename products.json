@@ -1,0 +1,203 @@
+{
+    "items": [{
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "Arsenal Away Kit",
+                "price": 40.10,
+                "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "AS Roma Away Kit",
+                "price": 38.20,
+                "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "Atlético Alternative Kit",
+                "price": 40.09,
+                "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "Barcelona Home Shirt",
+                "price": 49.99,
+                "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "Liverpool Alternate kit",
+                "price": 48.99,
+                "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Chelsea Alternate kit",
+                "price": 32.99,
+                "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "Man United Alternate kit",
+                "price": 45.99,
+                "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "Man City Alternate kit",
+                "price": 33.99,
+                "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "9" },
+            "fields": {
+                "title": "Tottenham Away kit",
+                "price": 45.99,
+                "image": { "fields": { "file": { "url": "./images/product-9.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "10" },
+            "fields": {
+                "title": "Real Madrid Home kit",
+                "price": 52.99,
+                "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "11" },
+            "fields": {
+                "title": "Arsenal Alternate kit",
+                "price": 39.99,
+                "image": { "fields": { "file": { "url": "./images/product-11.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "12" },
+            "fields": {
+                "title": "Barcelona Alternate kit",
+                "price": 50.99,
+                "image": { "fields": { "file": { "url": "./images/product-12.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "13" },
+            "fields": {
+                "title": "Atlético Away Kit",
+                "price": 40.09,
+                "image": { "fields": { "file": { "url": "./images/product-13.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "14" },
+            "fields": {
+                "title": "Man City Home Shirt",
+                "price": 49.99,
+                "image": { "fields": { "file": { "url": "./images/product-14.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "15" },
+            "fields": {
+                "title": "Man United Home kit",
+                "price": 48.99,
+                "image": { "fields": { "file": { "url": "./images/product-15.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "16" },
+            "fields": {
+                "title": "Real Madrid Alternate kit",
+                "price": 32.99,
+                "image": { "fields": { "file": { "url": "./images/product-16.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "17" },
+            "fields": {
+                "title": "Tottenham Home kit",
+                "price": 45.99,
+                "image": { "fields": { "file": { "url": "./images/product-17.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "18" },
+            "fields": {
+                "title": "Liverpool Home kit",
+                "price": 33.99,
+                "image": { "fields": { "file": { "url": "./images/product-18.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "19" },
+            "fields": {
+                "title": "Chelsea Home kit",
+                "price": 45.99,
+                "image": { "fields": { "file": { "url": "./images/product-19.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "20" },
+            "fields": {
+                "title": "Barcelona Away kit",
+                "price": 52.99,
+                "image": { "fields": { "file": { "url": "./images/product-20.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "21" },
+            "fields": {
+                "title": "Man City Alternate kit",
+                "price": 39.99,
+                "image": { "fields": { "file": { "url": "./images/product-21.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "22" },
+            "fields": {
+                "title": "Man United Home kit",
+                "price": 50.99,
+                "image": { "fields": { "file": { "url": "./images/product-22.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "23" },
+            "fields": {
+                "title": "Tottenham Alternative Kit",
+                "price": 40.09,
+                "image": { "fields": { "file": { "url": "./images/product-23.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "24" },
+            "fields": {
+                "title": "Real Madrid Away Shirt",
+                "price": 49.99,
+                "image": { "fields": { "file": { "url": "./images/product-24.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "25" },
+            "fields": {
+                "title": "Liverpool Away kit",
+                "price": 48.99,
+                "image": { "fields": { "file": { "url": "./images/product-25.jpg" } } }
+            }
+        }
+    ]
+}
